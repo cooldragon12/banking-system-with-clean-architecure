@@ -1,0 +1,1 @@
+"""For the entities of the domain, entities that change"""
